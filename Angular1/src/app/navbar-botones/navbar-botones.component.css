@@ -1,0 +1,19 @@
+button{
+    background-color: white;
+    font-size: 14px;
+    padding: 10px 24px;
+    border-radius: 4px;
+    border: 0px;
+    margin: 2px;
+    color:#0a475c;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+   
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #0a475c;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    opacity: 0.8;
+}
